@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7078e3ea-c4ac-4e68-a63a-9c9c25b85976" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javaexample/src/test/java/TestLesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/selenium-test-rep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium-test-rep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaexample/javaexample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaexample/javaexample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaexample/src/test/java/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaexample/src/test/java/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaexample/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaexample/src/test/java/TestBase.java" afterDir="false" />
-    </list>
+    <list default="true" id="7078e3ea-c4ac-4e68-a63a-9c9c25b85976" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/javaexample/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +36,8 @@
       <file leaf-file-name="TestLesson2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/TestLesson2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -424,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaexample/src/test/java/TestLesson2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
