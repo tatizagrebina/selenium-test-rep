@@ -71,7 +71,7 @@ public class TestLesson5_10 extends TestBase {
     }
 
     public void isGreyColor(String message, String str) {
-        Pattern p = Pattern.compile("(\\d+),");
+        Pattern p = Pattern.compile("(\\d+)");
         Matcher m = p.matcher(str);
         List<String> matches = new ArrayList<>();
         while (m.find()) {
